@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="WebContent/WEB-INF/lib"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-openjdk-amd64">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
@@ -14,5 +15,8 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="/home/eduardo/Downloads/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="/home/eduardo/Downloads/jstl-1.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="/home/eduardo/Downloads/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/eduardo/Downloads/jstl-1.2.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
